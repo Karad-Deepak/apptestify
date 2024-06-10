@@ -1,5 +1,6 @@
 import Hero from "../components/Hero";
 import Nav from "../components/Nav";
+import Partners from "../components/Partners";
 import Solutions from "../components/Solutions";
 
 function Home() {
@@ -11,6 +12,7 @@ function Home() {
       </header>
       <main>
         <Solutions />
+        <Partners />
       </main>
     </>
   );

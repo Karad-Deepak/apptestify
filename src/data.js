@@ -20,3 +20,25 @@ export const solutions = [
       "Don't sacrifice velocity. Adapt to your project's size and complexity by having the right expertise at the right time.",
   },
 ];
+export const partners = [
+  {
+    name: "Invested",
+    description:
+      "Deeply committed to your success, transforming visions into digital realities together.",
+  },
+  {
+    name: "Results-Oriented",
+    description:
+      "Focusing on tangible outcomes, we turn your goals into measurable successes.",
+  },
+  {
+    name: "Best-in-Class",
+    description:
+      "Excelling in our field, providing top-tier digital solutions for your business.",
+  },
+  {
+    name: "Trusted",
+    description:
+      "Reliable and respected, we're the trusted ally in your digital journey.",
+  },
+];
