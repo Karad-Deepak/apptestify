@@ -3,7 +3,7 @@ import { partners } from "../data";
 function Partners() {
   return (
     <>
-      <section className="section-padding flex flex-col gap-5 md:gap-8 lg:gap-10 bg-purple-950 text-slate-50">
+      <section className="section-padding flex flex-col gap-5 md:gap-8 lg:gap-10 bg-gradient-to-r from-indigo-950 to-purple-900 text-slate-50">
         <div className="flex flex-col gap-3 lg:gap-6 items-center ">
           <Bounce>
             <h2 className="text-xl lg:text-3xl">
