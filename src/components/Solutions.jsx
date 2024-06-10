@@ -20,11 +20,11 @@ function Solutions() {
           {solutions.map((item) => (
             <div
               key={item.name}
-              className="flex flex-col gap-4 lg:gap-7 bg-slate-800 py-7 px-5 lg:px-8 lg:py-8 text-slate-50 shadow-2xl rounded-xl hover:scale-110"
+              className="flex flex-col gap-4 lg:gap-7 bg-slate-100 py-7 px-5 lg:px-8 lg:py-8 text-slate-950 shadow-xl rounded-xl hover:scale-110"
             >
               <h3 className="text-[17px] lg:text-2xl">{item.name}</h3>
               <p className="text-[12px] lg:text-lg">{item.description}</p>
-              <span className="text-[12px] lg:text-lg text-rose-400 ">
+              <span className="text-[12px] lg:text-lg text-rose-500 ">
                 Learn more
               </span>
             </div>
