@@ -10,7 +10,7 @@ function Solutions() {
               Solutions that drive results
             </h2>
           </Bounce>
-          <p className="text-[13px] lg:text-xl">
+          <p className="text-[14px] lg:text-xl">
             End-to-end solutions focused on growth, innovation, optimization,
             and resiliency that leverage technology in an increasingly
             competitive digital landscape.
@@ -20,10 +20,10 @@ function Solutions() {
           {solutions.map((item) => (
             <div
               key={item.name}
-              className="flex flex-col gap-3 lg:gap-5 bg-slate-800 p-5 lg:px-8 lg:py-8 text-slate-50 shadow-2xl rounded-xl hover:scale-110"
+              className="flex flex-col gap-4 lg:gap-7 bg-slate-800 py-7 px-5 lg:px-8 lg:py-8 text-slate-50 shadow-2xl rounded-xl hover:scale-110"
             >
-              <h3 className="text-[16px] lg:text-2xl">{item.name}</h3>
-              <p className="text-[10px] lg:text-lg">{item.description}</p>
+              <h3 className="text-[17px] lg:text-2xl">{item.name}</h3>
+              <p className="text-[12px] lg:text-lg">{item.description}</p>
               <span className="text-[12px] lg:text-lg text-rose-400 ">
                 Learn more
               </span>

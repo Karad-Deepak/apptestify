@@ -15,7 +15,7 @@ function Hero() {
           </p>
         </div>
         <div className="flex text-center px-3 lg:px-10">
-          <span className="uppercase animate-pulse animate-infinite animate-ease-in text-xl lg:text-6xl  drop-shadow-2xl bg-gradient-to-r from-rose-600 to-lime-900 bg-clip-text text-transparent">
+          <span className="uppercase animate-pulse animate-infinite animate-ease-in text-2xl lg:text-6xl  drop-shadow-2xl bg-gradient-to-r from-rose-600 to-lime-900 bg-clip-text text-transparent">
             Software Testing <br />
             Consulting <br />
             Development
