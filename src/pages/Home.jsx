@@ -1,3 +1,4 @@
+import Contact from "../components/Contact";
 import Hero from "../components/Hero";
 import Insights from "../components/Insights";
 import Nav from "../components/Nav";
@@ -15,6 +16,7 @@ function Home() {
         <Solutions />
         <Partners />
         <Insights />
+        <Contact />
       </main>
     </>
   );

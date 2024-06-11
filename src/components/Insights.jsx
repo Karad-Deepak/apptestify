@@ -6,12 +6,13 @@ function Insights() {
     <>
       <section className="section-padding flex flex-col gap-5 md:gap-8 lg:gap-10 text-gray-950 items-center">
         <Bounce>
-          <h2 className="text-xl lg:text-3xl">Solutions that drive results</h2>
+          <h2 className="text-xl lg:text-3xl">Insights</h2>
         </Bounce>
         <p className="text-[14px] lg:text-xl">
-          End-to-end solutions focused on growth, innovation, optimization, and
-          resiliency that leverage technology in an increasingly competitive
-          digital landscape.
+          The world is constantly changing, stay informed with our most recent
+          insights that explore cutting-edge digital trends, practical
+          strategies, and innovative solutions. Get the perspectives you need to
+          guide you through the complexities of digital transformation.
         </p>
         <div className="flex flex-col gap-5 lg:flex-row justify-evenly ">
           {insights.map((insight) => (
@@ -24,7 +25,9 @@ function Insights() {
                 alt="insight"
                 className="w-[70vw] h-[20vh] md:w-[25vw] md:h-[25vh] rounded-lg"
               />
-              <h3 className="text-[15px] md:text-xl">{insight.title}</h3>
+              <h3 className="text-[15px] md:text-xl text-center">
+                {insight.title}
+              </h3>
 
               <spam className="text-rose-500">Read More</spam>
             </div>
