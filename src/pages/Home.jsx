@@ -1,4 +1,5 @@
 import Contact from "../components/Contact";
+import Footer from "../components/Footer";
 import Hero from "../components/Hero";
 import Insights from "../components/Insights";
 import Nav from "../components/Nav";
@@ -18,6 +19,9 @@ function Home() {
         <Insights />
         <Contact />
       </main>
+      <footer>
+        <Footer />
+      </footer>
     </>
   );
 }
