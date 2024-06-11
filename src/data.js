@@ -1,3 +1,7 @@
+import insights1 from "../src/assets/insights1.jpg";
+import insights2 from "../src/assets/insights2.jpg";
+import insights3 from "../src/assets/insights3.jpg";
+
 export const solutions = [
   {
     name: "Customer Experience",
@@ -40,5 +44,23 @@ export const partners = [
     name: "Trusted",
     description:
       "Reliable and respected, we're the trusted ally in your digital journey.",
+  },
+];
+
+export const insights = [
+  {
+    image: insights1,
+    title: "Enhancing Digital Workplace Maturity for Future Success",
+    info: "Elevating digital workplace maturity is crucial for organizational resilience, efficiency, and innovation. It involves integrating digital tools and processes, fostering a culture of continuous improvement, and leveraging technology and innovation aligned with business goals for competitive advantage and future readiness.",
+  },
+  {
+    image: insights2,
+    title: "How to think about your next digital transformation initiative",
+    info: "Business innovation, specifically Horizon 2 within the McKinsey Model, involves investing in emerging opportunities less predictable than core initiatives but safer than radical innovations, crucial for sustainable growth and competitive advantage in mid-market businesses by tapping into new markets and technologies.",
+  },
+  {
+    image: insights3,
+    title: "Crafting Seamless Digital Customer Experiences",
+    info: "Composable User Experience (UX) enables businesses to adapt digital experiences with modularity and personalization, enhancing customer satisfaction. It requires strategic investment and cultural shifts within organizations. Integrating Total Experience (TX) across CX, EX, UX, and MX improves overall satisfaction and organizational performance.",
   },
 ];

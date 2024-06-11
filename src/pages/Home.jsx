@@ -1,4 +1,5 @@
 import Hero from "../components/Hero";
+import Insights from "../components/Insights";
 import Nav from "../components/Nav";
 import Partners from "../components/Partners";
 import Solutions from "../components/Solutions";
@@ -13,6 +14,7 @@ function Home() {
       <main>
         <Solutions />
         <Partners />
+        <Insights />
       </main>
     </>
   );
