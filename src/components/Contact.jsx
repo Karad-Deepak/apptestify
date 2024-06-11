@@ -16,7 +16,7 @@ function Contact() {
             Work with our team to launch your next digital transformation
             initiative.
           </span>
-          <button className="link-hover text-[15px] md:text-lg bg-rose-500 px-3 py-1 md:px-4 md:py-2 rounded-2xl text-slate-50 shadow-md">
+          <button className="button-hover text-[15px] md:text-lg bg-rose-500 px-3 py-1 md:px-4 md:py-2 rounded-2xl text-slate-50 shadow-md">
             Contact Us
           </button>
         </div>

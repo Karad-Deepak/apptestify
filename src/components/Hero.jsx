@@ -2,7 +2,7 @@ import { Fade } from "react-awesome-reveal";
 function Hero() {
   return (
     <>
-      <div className="flex flex-col-reverse lg:flex-row gap-7 md:flex-row lg:gap-10 items-center section-padding lg:pb-72 lg:pt-24">
+      <div className=" flex flex-col-reverse lg:flex-row gap-7 md:flex-row lg:gap-10 items-center section-padding lg:pb-52 lg:pt-24">
         <div className="flex flex-col gap-4 lg:gap-10 text-left basis-1/2">
           <Fade>
             <h1 className=" text-2xl lg:text-4xl">

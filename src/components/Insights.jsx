@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { Bounce } from "react-awesome-reveal";
 import { insights } from "../data";
 
@@ -29,7 +30,9 @@ function Insights() {
                 {insight.title}
               </h3>
 
-              <spam className="text-rose-500">Read More</spam>
+              <Link to="/insights">
+                <spam className="text-rose-500">Read More</spam>
+              </Link>
             </div>
           ))}
         </div>

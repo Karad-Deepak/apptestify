@@ -64,3 +64,22 @@ export const insights = [
     info: "Composable User Experience (UX) enables businesses to adapt digital experiences with modularity and personalization, enhancing customer satisfaction. It requires strategic investment and cultural shifts within organizations. Integrating Total Experience (TX) across CX, EX, UX, and MX improves overall satisfaction and organizational performance.",
   },
 ];
+
+export const values = [
+  {
+    name: "Transparent",
+    info: "We prioritize access of information, fostering an environment where everyone is well-informed and can contribute effectively.",
+  },
+  {
+    name: "Resourceful",
+    info: "Creative thinking and efficient resource utilization are our tools for excelling in challenging situations, always seeking inventive solutions.",
+  },
+  {
+    name: "United",
+    info: "We believe in collective effort and teamwork, aiming for win-win-win outcomes that benefit our clients, our team, and our company",
+  },
+  {
+    name: "Excellent",
+    info: "Driven by a desire to continuously surpass milestones, we strive for the best, constantly challenging ourselves to improve and excel.",
+  },
+];
