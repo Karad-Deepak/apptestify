@@ -83,3 +83,46 @@ export const values = [
     info: "Driven by a desire to continuously surpass milestones, we strive for the best, constantly challenging ourselves to improve and excel.",
   },
 ];
+export const customer = {
+  title: "Customer Expierence",
+  heading:
+    "Drive brand loyalty through meaningful customer experiences that scale",
+  section_heading:
+    "A world-class customer experience (CX) extends beyond making transactions easier; it builds lasting connections and sets businesses apart.",
+  section_info:
+    "A great CX strategy requires understanding and meeting customer needs, creating trust, and staying competitive. It’s not just about solving issues quickly; it’s about creating an engaging customer journey that keeps users coming back. It's an essential investment in long-term success.",
+  number: "2x",
+  number_info:
+    "More growth experienced by companies in the top quartile of the design index.",
+};
+export const operations = {
+  title: "Modern Operations",
+  heading:
+    "Enhance business processes in high-impact areas and deliver measurable results",
+  section_heading: "A sturdy framework for sustained success.",
+  section_info:
+    "Scalable operations allow businesses to adapt to increased volumes and demands without disruption, allowing them to grow sustainably. As a result, businesses can innovate faster and better meet customer needs.",
+  number: "2.1x",
+  number_info: "Productivity with AI-assisted processes",
+};
+export const data = {
+  title: "Data & Insights",
+  heading:
+    "Discover opportunities for transformation and scale your intelligence capabilities",
+  section_heading:
+    "The right data strategy and architecture can improve customer satisfaction, optimize workflows, and grow revenue.",
+  section_info:
+    "By predicting future trends and uncovering new opportunities, data intelligence helps organizations to become more innovative. Data collection and analysis are only part of the process, it's the transformation of that data that makes it actionable.",
+  number: "3x",
+  number_info: "Repeat purchases with data-driven customer communication.",
+};
+export const services = {
+  title: "Application Services",
+  heading: "The flexibility and adaptability you need to ship products faster",
+  section_heading:
+    "Time-to-value involves a shift in mindset from creating a product that works to proving its value",
+  section_info:
+    "Taking a value-focused approach involves prioritizing effectively, communicating the importance of creating value, and involving key stakeholders throughout the process. Companies that prioritize TTV are more likely to survive future uncertainties as they can quickly adapt to market changes while emphasizing value creation.",
+  number: "23%",
+  number_info: "Higher profit margins for digitally mature organizations",
+};
